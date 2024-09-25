@@ -1,0 +1,31 @@
+h1 {
+  color: red;
+}
+
+nav ul li {
+  display: inline;
+}
+
+.personal-info {
+  background-color: gray;
+}
+
+.hobbies {
+  background-color: gray;
+}
+
+.skills {
+  background-color: gray;
+}
+
+.goals {
+  background-color: grey;
+}
+
+.contact {
+  background-color: gray;
+}
+img {
+  width: 350px;
+  height: 250px;
+}
